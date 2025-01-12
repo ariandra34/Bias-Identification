@@ -10,8 +10,8 @@ Selection based on [spreadsheet](https://docs.google.com/spreadsheets/d/1D41GaAq
 - **TCAV (Testing with Concept Activation Vectors)**  
   Repository: [tensorflow/tcav](https://github.com/tensorflow/tcav)
 
-- **Meaningful Perturbations**  
-  Repository: [ruthcfong/perturb_explanations](https://github.com/ruthcfong/perturb_explanations)
+- **RISE (Random Input Sampling for Explanation)**  
+  Repository: [eclique/RISE](https://github.com/eclique/RISE)
 
 - **Grad-CAM**  
   Example: [Keras Grad-CAM](https://keras.io/examples/vision/grad_cam/)
